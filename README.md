@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 Participated in Hacktoberfest 2023
 [![An image of @cxdersoham's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cxdersoham)](https://holopin.io/@cxdersoham)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cxder-soham" alt="cxder-soham" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cxder-soham" alt="cxder-soham" /></a> </p>>
 
 - 🔭 I’m currently working on **Project Human City**
 
