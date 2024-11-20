@@ -5,7 +5,7 @@ Participated in Hacktoberfest 2023
 [![An image of @cxdersoham's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cxdersoham)](https://holopin.io/@cxdersoham)
 
 
-- 🔭 I’m currently working on **Project Human City**
+- 🔭 I’m currently working on **Full Stack AI Projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
