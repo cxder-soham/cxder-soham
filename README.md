@@ -11,7 +11,7 @@ Currently exploring full-time roles in AI / Data Science / Software Engineering.
 ### 🔭 What I've built
 - **[MediParse](https://github.com/cxder-soham/MediParse)** — Medical document intelligence system using OCR + LLM-based clinical entity extraction, converting discharge summaries into structured JSON. Async pipeline with FastAPI, Celery, Redis.
 - **[DeepFake Detection](https://github.com/cxder-soham/deepfake-detection)** — MTCNN + ResNet pipeline achieving 93% accuracy on a 50GB video dataset, <30s inference, deployed serverless on AWS Lambda.
-- **[Network Intrusion Detection with XAI](https://github.com/cxder-soham/nids-xai)** — CNN-LSTM hybrid IDS with explainable AI for transparent threat classification. [Paper published](#).
+- **[Network Intrusion Detection with XAI](https://github.com/cxder-soham/NetGuardXAI_nids)** — CNN-LSTM hybrid IDS with explainable AI for transparent threat classification. [Paper published](#).
 
 At **Bajaj Finserv Health**, I built a production AI claims adjudication pipeline processing 100,000+ claims/month, improving automation coverage from 25% → 95% — deployed on Azure Kubernetes with full LangChain/Kafka/PySpark monitoring stack.
 
